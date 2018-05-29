@@ -1,2 +1,2 @@
 # NBP-Currency
-Application shows NBP Currency using NBP API. 
+Android Application shows NBP Currency using NBP API. 
